@@ -1,7 +1,7 @@
 ## 안녕하세요 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9511dasol)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9511dasol&show_icons=true&theme=dark)
 <!--
 **9511dasol/9511dasol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
