@@ -2,7 +2,7 @@
 
 [포토플리오](https://9511dasol.github.io/portfolio/)
 ---
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 FrontEnd
 
