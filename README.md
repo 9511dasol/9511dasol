@@ -1,9 +1,8 @@
 ## 안녕하세요 👋
 
-[포토플리오]([https://9511dasol.github.io/portfolio/](https://portfolio-dutg3m53i-dasol-hans-projects.vercel.app/))
+[Portfolio](https://portfolio-dutg3m53i-dasol-hans-projects.vercel.app/)
 ---
 🛠 Tech Stack
-
 FrontEnd
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
