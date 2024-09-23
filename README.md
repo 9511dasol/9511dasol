@@ -4,7 +4,7 @@
 ---
 [Blog](https://velog.io/@9511dasol/posts)
 ---
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 FrontEnd
 
