@@ -4,8 +4,8 @@
 
 지속 가능한 코드와 효율적인 아키텍처 구축을 지향합니다.
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3D_Interactive-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio3d-coral.vercel.app/)
 [![Blog Badge](https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@9511dasol/posts)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3D_Interactive-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio3d-coral.vercel.app/)
 
 ---
 
